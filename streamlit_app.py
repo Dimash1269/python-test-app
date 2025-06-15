@@ -20,7 +20,8 @@ with open(file_name, "r", encoding="utf-8") as f:
     all_questions = json.load(f)
 
 if "questions" not in st.session_state or st.session_state.get("current_subject") != subject:
-    st.session_state.questions = all_questions[:]  # 100 ta to‘liq test
+    num_questions = min(100, len(all_questions))  # mavjud savollar sonidan oshib ketmasin
+    st.session_state.questions = random.sample(all_questions, num_questions)
     st.session_state.score = 0
     st.session_state.answered = [None] * len(st.session_state.questions)
     st.session_state.current_subject = subject
@@ -29,6 +30,8 @@ if "questions" not in st.session_state or st.session_state.get("current_subject"
         opts = q["options"][:]
         random.shuffle(opts)
         st.session_state.shuffled_options.append(opts)
+
+
 
 
 questions = st.session_state.questions
