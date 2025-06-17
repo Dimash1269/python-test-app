@@ -188,7 +188,7 @@
       "import mpl.plot as plt",
       "from matplotlib import pyplot as plot"
     ],
-    "answer": "from matplotlib import pyplot as plot"
+    "answer": "import matplotlib.py plot as plt"
   },
   {
     "id": 32,
