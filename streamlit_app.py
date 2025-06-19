@@ -5,16 +5,17 @@ import random
 st.set_page_config(page_title="Fanlar bo‘yicha test", page_icon="🧠")
 
 # Fanni tanlash
-subject = st.selectbox("Fan tanlang:", ["Falsafa", "Grand blue1", "Grand blue2"])
+subject = st.selectbox("Fan tanlang:", ["Algoritm", "Grand blue1", "Grand blue2"])
 
 # Test usulini tanlash
 test_mode = st.radio("Test turi:", ["100 ta to‘liq", "25 ta random"], horizontal=True)
 
 # Fayl nomlarini aniqlaymiz
-file_map = {
-    "Falsafa": "Falsafa.json",
+file_map = { 
     "Grand blue1": "Grand_blue1.json",
-    "Grand blue2": "Grand_blue2.json"
+    "Algoritm": "Algoritm.json",
+   "Grand blue2": "Grand_blue2.json"
+    
 }
 file_name = file_map[subject]
 
