@@ -5,7 +5,7 @@ import random
 st.set_page_config(page_title="Fanlar bo‘yicha test", page_icon="🧠")
 
 # Fanni tanlash
-subject = st.selectbox("Fan tanlang:", ["Algoritm", "Grand blue1", "Grand blue2"])
+subject = st.selectbox("Fan tanlang:", [ "Grand blue1", "Grand blue2","Algoritm"])
 
 # Test usulini tanlash
 test_mode = st.radio("Test turi:", ["100 ta to‘liq", "25 ta random"], horizontal=True)
