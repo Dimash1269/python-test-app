@@ -10,8 +10,10 @@ subject = st.selectbox("Fan tanlang:", ["Algoritm"])
 # Test usulini tanlash
 test_mode = st.radio("Test turi:", ["100 ta to‘liq", "25 ta random"], horizontal=True)
 
+
+
 # Fayl nomlarini aniqlaymiz
-file_map = { 
+file_map = {
     "Algoritm": "Algoritm.json"
 }
 file_name = file_map[subject]
@@ -70,3 +72,8 @@ for idx, q in enumerate(questions, 1):
 st.markdown("---")
 st.subheader(f"Umumiy natija: {st.session_state.score} / {len(questions)}")
 
+# Qayta ishlash tugmasi faqat 25 ta randomda ko‘rinadi
+if test_mode == "25 ta random":
+    if st.button("🔄 Qayta ishlash (yangi 25 ta savol)"):
+        st.session_state.pop("questions", None)
+        st.experimental_rerun()
