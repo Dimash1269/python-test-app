@@ -71,8 +71,3 @@ for idx, q in enumerate(questions, 1):
 
 st.markdown("---")
 st.subheader(f"Umumiy natija: {st.session_state.score} / {len(questions)}")
-
-if st.button("🔄 Qayta ishlash (yangi 25 ta savol)"):
-    for key in ["questions", "answered", "shuffled_options", "score"]:
-        st.session_state.pop(key, None)
-    st.experimental_rerun()
