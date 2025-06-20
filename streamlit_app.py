@@ -72,8 +72,12 @@ for idx, q in enumerate(questions, 1):
 st.markdown("---")
 st.subheader(f"Umumiy natija: {st.session_state.score} / {len(questions)}")
 
-# Qayta ishlash tugmasi faqat 25 ta randomda ko‘rinadi
-if test_mode == "25 ta random":
-    if st.button("🔄 Qayta ishlash (yangi 25 ta savol)"):
-        st.session_state.pop("questions", None)
-        st.experimental_rerun()
+# Qayta ishlash tugmasi — rerun o‘rniga session_state ni tozalaymiz
+if st.button("🔄 Qayta ishlash (yangi test)"):
+    for key in ["questions", "answered", "shuffled_options", "score", "current_subject", "test_mode"]:
+        st.session_state.pop(key, None)
+
+
+
+
+
