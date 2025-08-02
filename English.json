@@ -1,652 +1,711 @@
 [
   {
     "id": 1,
-    "question": "What does 'apparent' mean?",
-    "options": ["Clear", "Hidden", "Confusing", "Vision"],
-    "answer": "Clear"
+    "savol": "What does 'apparent' mean?",
+    "variantlar": [
+      "Clear",
+      "Hidden",
+      "Confusing",
+      "Vision"
+    ],
+    "javob": "Clear"
   },
   {
     "id": 2,
-    "question": "A person's 'vision' refers to:",
-    "options": ["Their eyesight", "Their dreams and goals", "Their ability to hear", "Apparent"],
-    "answer": "Their eyesight"
+    "savol": "A person's 'vision' refers to:",
+    "variantlar": [
+      "Their eyesight",
+      "Their dreams and goals",
+      "Their ability to hear",
+      "Apparent"
+    ],
+    "javob": "Their eyesight"
   },
   {
     "id": 3,
-    "question": "Someone who is 'blind' cannot:",
-    "options": ["Speak", "See", "Walk", "Eyesight"],
-    "answer": "See"
+    "savol": "Someone who is 'blind' cannot:",
+    "variantlar": [
+      "Speak",
+      "See",
+      "Walk",
+      "Eyesight"
+    ],
+    "javob": "See"
   },
   {
     "id": 4,
-    "question": "A 'talent' is:",
-    "options": ["A skill", "A job", "A city", "Abled"],
-    "answer": "A skill"
+    "savol": "A 'talent' is:",
+    "variantlar": [
+      "A skill",
+      "A job",
+      "A city",
+      "Abled"
+    ],
+    "javob": "A skill"
   },
   {
     "id": 5,
-    "question": "To 'commit' means to:",
-    "options": ["Break a promise", "Make a promise", "Forget something", "Carry out"],
-    "answer": "Carry out"
+    "savol": "To 'commit' means to:",
+    "variantlar": [
+      "Break a promise",
+      "Make a promise",
+      "Forget something",
+      "Carry out"
+    ],
+    "javob": "Carry out"
   },
   {
     "id": 6,
-    "question": "To 'remind' someone is to:",
-    "options": ["Help them forget", "Make them remember", "Ignore them", "Spit"],
-    "answer": "Make them remember"
+    "savol": "To 'remind' someone is to:",
+    "variantlar": [
+      "Help them forget",
+      "Make them remember",
+      "Ignore them",
+      "Spit"
+    ],
+    "javob": "Make them remember"
   },
   {
     "id": 7,
-    "question": "A 'dormitory' is a place where:",
-    "options": ["People eat", "People sleep", "People work", "People run"],
-    "answer": "People sleep"
+    "savol": "A 'dormitory' is a place where:",
+    "variantlar": [
+      "People eat",
+      "People sleep",
+      "People work",
+      "People run"
+    ],
+    "javob": "People sleep"
   },
   {
     "id": 8,
-    "question": "If something is 'obvious,' it is not:",
-    "options": ["Unclear", "Easy to see", "Hard to find", "Clear"],
-    "answer": "Unclear"
+    "savol": "If something is 'obvious,' it is not:",
+    "variantlar": [
+      "Unclear",
+      "Easy to see",
+      "Hard to find",
+      "Clear"
+    ],
+    "javob": "Unclear"
   },
   {
     "id": 9,
-    "question": "To 'ignore' means to:",
-    "options": ["Focus on", "Pay no attention to", "Understand", "Underestimate"],
-    "answer": "Pay no attention to"
+    "savol": "To 'ignore' means to:",
+    "variantlar": [
+      "Focus on",
+      "Pay no attention to",
+      "Understand",
+      "Underestimate"
+    ],
+    "javob": "Pay no attention to"
   },
   {
     "id": 10,
-    "question": "To 'absorb' means to:",
-    "options": ["Take in", "Give out", "Throw away", "Breath in"],
-    "answer": "Take in"
+    "savol": "To 'absorb' means to:",
+    "variantlar": [
+      "Take in",
+      "Give out",
+      "Throw away",
+      "Breath in"
+    ],
+    "javob": "Take in"
   },
   {
     "id": 11,
-    "question": "Something 'unique' is:",
-    "options": ["Very common", "One of a kind", "Difficult to find", "Famous"],
-    "answer": "One of a kind"
+    "savol": "Something 'unique' is:",
+    "variantlar": ["Very common", "One of a kind", "Difficult to find", "Famous"],
+    "javob": "One of a kind"
   },
   {
     "id": 12,
-    "question": "A 'committee' is:",
-    "options": ["A large group", "A small group that works together", "An individual", "A society"],
-    "answer": "A large group"
+    "savol": "A 'committee' is:",
+    "variantlar": ["A large group", "A small group that works together", "An individual", "A society"],
+    "javob": "A large group"
   },
   {
     "id": 13,
-    "question": "To 'handle' something means to:",
-    "options": ["Ignore it", "Deal with it", "Throw it away", "Get rid of"],
-    "answer": "Deal with it"
+    "savol": "To 'handle' something means to:",
+    "variantlar": ["Ignore it", "Deal with it", "Throw it away", "Get rid of"],
+    "javob": "Deal with it"
   },
   {
     "id": 14,
-    "question": "To 'devote' time means to:",
-    "options": ["Waste time", "Spend time with purpose", "Share time", "Ignore"],
-    "answer": "Spend time with purpose"
+    "savol": "To 'devote' time means to:",
+    "variantlar": ["Waste time", "Spend time with purpose", "Share time", "Ignore"],
+    "javob": "Spend time with purpose"
   },
   {
     "id": 15,
-    "question": "If something is 'smooth,' it is:",
-    "options": ["Bumpy", "Even", "Rough", "Rude"],
-    "answer": "Even"
+    "savol": "If something is 'smooth,' it is:",
+    "variantlar": ["Bumpy", "Even", "Rough", "Rude"],
+    "javob": "Even"
   },
   {
     "id": 16,
-    "question": "To 'dine' means to:",
-    "options": ["Eat a meal", "Cook food", "Buy food", "Have lunch"],
-    "answer": "Eat a meal"
+    "savol": "To 'dine' means to:",
+    "variantlar": ["Eat a meal", "Cook food", "Buy food", "Have lunch"],
+    "javob": "Eat a meal"
   },
   {
     "id": 17,
-    "question": "'Flavor' refers to:",
-    "options": ["The smell of food", "The taste of food", "The appearance of food", "The ingredient of food"],
-    "answer": "The taste of food"
+    "savol": "'Flavor' refers to:",
+    "variantlar": ["The smell of food", "The taste of food", "The appearance of food", "The ingredient of food"],
+    "javob": "The taste of food"
   },
   {
     "id": 18,
-    "question": "To 'dig' means to:",
-    "options": ["Fill in a hole", "Remove soil", "Cover something", "Turn sand"],
-    "answer": "Remove soil"
+    "savol": "To 'dig' means to:",
+    "variantlar": ["Fill in a hole", "Remove soil", "Cover something", "Turn sand"],
+    "javob": "Remove soil"
   },
   {
     "id": 19,
-    "question": "To 'donate' means to:",
-    "options": ["Take something", "Give something for free", "Ask for something", "Borrow money"],
-    "answer": "Give something for free"
+    "savol": "To 'donate' means to:",
+    "variantlar": ["Take something", "Give something for free", "Ask for something", "Borrow money"],
+    "javob": "Give something for free"
   },
   {
     "id": 20,
-    "question": "'Soil' is another word for:",
-    "options": ["Water", "Earth", "Air", "Sand"],
-    "answer": "Earth"
+    "savol": "'Soil' is another word for:",
+    "variantlar": ["Water", "Earth", "Air", "Sand"],
+    "javob": "Earth"
   },
   {
     "id": 21,
-    "question": "To 'deny' means to:",
-    "options": ["Accept something", "Refuse to admit", "Agree with", "Ban something"],
-    "answer": "Refuse to admit"
+    "savol": "To 'deny' means to:",
+    "variantlar": ["Accept something", "Refuse to admit", "Agree with", "Ban something"],
+    "javob": "Refuse to admit"
   },
   {
     "id": 22,
-    "question": "The word 'thus' means:",
-    "options": ["So", "Because", "Though", "However"],
-    "answer": "So"
+    "savol": "The word 'thus' means:",
+    "variantlar": ["So", "Because", "Though", "However"],
+    "javob": "So"
   },
   {
     "id": 23,
-    "question": "To 'emphasize' means to:",
-    "options": ["Make less important", "Stress a point", "Repeat something quickly", "Ignore"],
-    "answer": "Stress a point"
+    "savol": "To 'emphasize' means to:",
+    "variantlar": ["Make less important", "Stress a point", "Repeat something quickly", "Ignore"],
+    "javob": "Stress a point"
   },
   {
     "id": 24,
-    "question": "If someone is 'shy,' they are not:",
-    "options": ["Outgoing", "Comfortable in groups", "Reserved", "Constant"],
-    "answer": "Outgoing"
+    "savol": "If someone is 'shy,' they are not:",
+    "variantlar": ["Outgoing", "Comfortable in groups", "Reserved", "Constant"],
+    "javob": "Outgoing"
   },
   {
     "id": 25,
-    "question": "To 'freeze' means to:",
-    "options": ["Become hot", "Become cold", "Move quickly", "Become warm"],
-    "answer": "Become cold"
+    "savol": "To 'freeze' means to:",
+    "variantlar": ["Become hot", "Become cold", "Move quickly", "Become warm"],
+    "javob": "Become cold"
   },
   {
     "id": 26,
-    "question": "To 'rely' on someone means to:",
-    "options": ["Trust them", "Doubt them", "Avoid them", "Suspect them"],
-    "answer": "Trust them"
+    "savol": "To 'rely' on someone means to:",
+    "variantlar": ["Trust them", "Doubt them", "Avoid them", "Suspect them"],
+    "javob": "Trust them"
   },
   {
     "id": 27,
-    "question": "To 'stare' means to:",
-    "options": ["Look quickly", "Look up", "Look away", "Glance at"],
-    "answer": "Glance at"
+    "savol": "To 'stare' means to:",
+    "variantlar": ["Look quickly", "Look up", "Look away", "Glance at"],
+    "javob": "Glance at"
   },
   {
     "id": 28,
-    "question": "To 'recover' means to:",
-    "options": ["Lose something", "Get better", "Give up", "To get engaged"],
-    "answer": "Get better"
+    "savol": "To 'recover' means to:",
+    "variantlar": ["Lose something", "Get better", "Give up", "To get engaged"],
+    "javob": "Get better"
   },
   {
     "id": 29,
-    "question": "A 'fever' is:",
-    "options": ["A high body temperature", "A cold symptom", "A food allergy", "Cough"],
-    "answer": "A high body temperature"
+    "savol": "A 'fever' is:",
+    "variantlar": ["A high body temperature", "A cold symptom", "A food allergy", "Cough"],
+    "javob": "A high body temperature"
   },
   {
     "id": 30,
-    "question": "'Perspective' refers to:",
-    "options": ["How someone sees things", "A type of vision", "A method of speaking", "The way people ponder"],
-    "answer": "How someone sees things"
+    "savol": "'Perspective' refers to:",
+    "variantlar": ["How someone sees things", "A type of vision", "A method of speaking", "The way people ponder"],
+    "javob": "How someone sees things"
   },
   {
     "id": 31,
-    "question": "The 'flu' is:",
-    "options": ["A common illness", "A rare disease", "A healthy condition", "A bad sickness"],
-    "answer": "A common illness"
+    "savol": "The 'flu' is:",
+    "variantlar": ["A common illness", "A rare disease", "A healthy condition", "A bad sickness"],
+    "javob": "A common illness"
   },
   {
     "id": 32,
-    "question": "'Likeness' means:",
-    "options": ["Similarity", "Difference", "Identity", "Same"],
-    "answer": "Similarity"
+    "savol": "'Likeness' means:",
+    "variantlar": ["Similarity", "Difference", "Identity", "Same"],
+    "javob": "Similarity"
   },
   {
     "id": 33,
-    "question": "A 'gesture' is:",
-    "options": ["A type of clothing", "A movement to express something", "A way of cooking", "A way of drinking"],
-    "answer": "A movement to express something"
+    "savol": "A 'gesture' is:",
+    "variantlar": ["A type of clothing", "A movement to express something", "A way of cooking", "A way of drinking"],
+    "javob": "A movement to express something"
   },
   {
     "id": 34,
-    "question": "'Moreover' means:",
-    "options": ["However", "Also", "Instead", "Hence"],
-    "answer": "Also"
+    "savol": "'Moreover' means:",
+    "variantlar": ["However", "Also", "Instead", "Hence"],
+    "javob": "Also"
   },
   {
     "id": 35,
-    "question": "To 'interrupt' someone means to:",
-    "options": ["Let them finish", "Stop them while speaking", "Encourage them", "Start something"],
-    "answer": "Stop them while speaking"
+    "savol": "To 'interrupt' someone means to:",
+    "variantlar": ["Let them finish", "Stop them while speaking", "Encourage them", "Start something"],
+    "javob": "Stop them while speaking"
   },
   {
     "id": 36,
-    "question": "The word 'aim' refers to:",
-    "options": ["A goal or purpose", "A physical injury", "An object", "Item"],
-    "answer": "A goal or purpose"
+    "savol": "The word 'aim' refers to:",
+    "variantlar": ["A goal or purpose", "A physical injury", "An object", "Item"],
+    "javob": "A goal or purpose"
   },
   {
     "id": 37,
-    "question": "If someone is 'sincere,' they are:",
-    "options": ["Fake", "Honest", "Funny", "Rude"],
-    "answer": "Honest"
+    "savol": "If someone is 'sincere,' they are:",
+    "variantlar": ["Fake", "Honest", "Funny", "Rude"],
+    "javob": "Honest"
   },
   {
     "id": 38,
-    "question": "To 'attach' something means to:",
-    "options": ["Take it apart", "Connect it", "Use it", "Join"],
-    "answer": "Connect it"
+    "savol": "To 'attach' something means to:",
+    "variantlar": ["Take it apart", "Connect it", "Use it", "Join"],
+    "javob": "Connect it"
   },
   {
     "id": 39,
-    "question": "To 'shift' means to:",
-    "options": ["Stay the same", "Move", "Break", "Add"],
-    "answer": "Move"
+    "savol": "To 'shift' means to:",
+    "variantlar": ["Stay the same", "Move", "Break", "Add"],
+    "javob": "Move"
   },
   {
     "id": 40,
-    "question": "To 'confirm' means to:",
-    "options": ["Deny", "Prove to be true", "Question", "Consequence"],
-    "answer": "Prove to be true"
+    "savol": "To 'confirm' means to:",
+    "variantlar": ["Deny", "Prove to be true", "Question", "Consequence"],
+    "javob": "Prove to be true"
   },
   {
     "id": 41,
-    "question": "The 'prime' number is:",
-    "options": [
+    "savol": "The 'prime' number is:",
+    "variantlar": [
       "A number greater than 10",
       "A number divisible only by 1 and itself",
       "A negative number",
       "Lower than 10"
     ],
-    "answer": "A number divisible only by 1 and itself"
+    "javob": "A number divisible only by 1 and itself"
   },
   {
     "id": 42,
-    "question": "To 'bet' means to:",
-    "options": [
+    "savol": "To 'bet' means to:",
+    "variantlar": [
       "Risk money on an outcome",
       "Save money",
       "Spend money",
       "Expense"
     ],
-    "answer": "Risk money on an outcome"
+    "javob": "Risk money on an outcome"
   },
   {
     "id": 43,
-    "question": "'Labor' refers to:",
-    "options": [
+    "savol": "'Labor' refers to:",
+    "variantlar": [
       "Hard work",
       "Leisure activities",
       "Relaxation",
       "Spare time"
     ],
-    "answer": "Hard work"
+    "javob": "Hard work"
   },
   {
     "id": 44,
-    "question": "To 'differentiate' means to:",
-    "options": [
+    "savol": "To 'differentiate' means to:",
+    "variantlar": [
       "Compare two things",
       "Miss something",
       "Ignore differences",
       "Various"
     ],
-    "answer": "Compare two things"
+    "javob": "Compare two things"
   },
   {
     "id": 45,
-    "question": "To 'invent' means to:",
-    "options": [
+    "savol": "To 'invent' means to:",
+    "variantlar": [
       "Create something new",
       "Copy someone",
       "Destroy",
       "Invent"
     ],
-    "answer": "Create something new"
+    "javob": "Create something new"
   },
   {
     "id": 46,
-    "question": "A 'carriage' can refer to:",
-    "options": [
+    "savol": "A 'carriage' can refer to:",
+    "variantlar": [
       "A type of food",
       "A vehicle pulled by horses",
       "A small room",
       "A big room"
     ],
-    "answer": "A vehicle pulled by horses"
+    "javob": "A vehicle pulled by horses"
   },
   {
     "id": 47,
-    "question": "'Ability' means:",
-    "options": [
+    "savol": "'Ability' means:",
+    "variantlar": [
       "A lack of skill",
       "A skill or talent",
       "A desire",
       "A talented person"
     ],
-    "answer": "A skill or talent"
+    "javob": "A skill or talent"
   },
   {
     "id": 48,
-    "question": "A 'job' is:",
-    "options": [
+    "savol": "A 'job' is:",
+    "variantlar": [
       "A type of hobby",
       "A job requiring special training",
       "A form of entertainment",
       "occupation"
     ],
-    "answer": "occupation"
+    "javob": "occupation"
   },
   {
     "id": 49,
-    "question": "A 'priest' is someone who:",
-    "options": [
+    "savol": "A 'priest' is someone who:",
+    "variantlar": [
       "Conducts religious services",
       "Acts in movies",
       "Sells goods",
       "Sells meat"
     ],
-    "answer": "Conducts religious services"
+    "javob": "Conducts religious services"
   },
   {
     "id": 50,
-    "question": "The 'ceiling' is:",
-    "options": [
+    "savol": "The 'ceiling' is:",
+    "variantlar": [
       "The floor of a room",
       "The top surface of a room",
       "A wall",
       "A doorbell"
     ],
-    "answer": "The top surface of a room"
+    "javob": "The top surface of a room"
   },
   {
     "id": 51,
-    "question": "If something is 'odd,' it is:",
-    "options": ["Normal", "Strange", "Common", "Ceiling"],
-    "answer": "Strange"
+    "savol": "If something is 'odd,' it is:",
+    "variantlar": ["Normal", "Strange", "Common", "Ceiling"],
+    "javob": "Strange"
   },
   {
     "id": 52,
-    "question": "To 'convince' someone means to:",
-    "options": ["Make them doubt", "Make them believe", "Ignore their opinion", "Pay attention to"],
-    "answer": "Make them believe"
+    "savol": "To 'convince' someone means to:",
+    "variantlar": ["Make them doubt", "Make them believe", "Ignore their opinion", "Pay attention to"],
+    "javob": "Make them believe"
   },
   {
     "id": 53,
-    "question": "A 'monk' is:",
-    "options": ["A type of animal", "A religious man who lives simply", "A person who sings", "A person who sells meat"],
-    "answer": "A religious man who lives simply"
+    "savol": "A 'monk' is:",
+    "variantlar": ["A type of animal", "A religious man who lives simply", "A person who sings", "A person who sells meat"],
+    "javob": "A religious man who lives simply"
   },
   {
     "id": 54,
-    "question": "To 'delay' means to:",
-    "options": ["Make something happen faster", "Postpone something", "Confirm something", "Accept something"],
-    "answer": "Postpone something"
+    "savol": "To 'delay' means to:",
+    "variantlar": ["Make something happen faster", "Postpone something", "Confirm something", "Accept something"],
+    "javob": "Postpone something"
   },
   {
     "id": 55,
-    "question": "To 'investigate' means to:",
-    "options": ["Do nothing", "Look into something carefully", "Play games", "Do something"],
-    "answer": "Look into something carefully"
+    "savol": "To 'investigate' means to:",
+    "variantlar": ["Do nothing", "Look into something carefully", "Play games", "Do something"],
+    "javob": "Look into something carefully"
   },
   {
     "id": 56,
-    "question": "A 'diary' is:",
-    "options": ["A place to keep money", "A personal journal", "A book about history", "An item to write"],
-    "answer": "A personal journal"
+    "savol": "A 'diary' is:",
+    "variantlar": ["A place to keep money", "A personal journal", "A book about history", "An item to write"],
+    "javob": "A personal journal"
   },
   {
     "id": 57,
-    "question": "To 'greet' someone means to:",
-    "options": ["Ignore them", "Say hello", "Walk away", "Give away"],
-    "answer": "Say hello"
+    "savol": "To 'greet' someone means to:",
+    "variantlar": ["Ignore them", "Say hello", "Walk away", "Give away"],
+    "javob": "Say hello"
   },
   {
     "id": 58,
-    "question": "'Faith' refers to:",
-    "options": ["Doubt", "Trust and belief", "Criticism", "Feedback"],
-    "answer": "Trust and belief"
+    "savol": "'Faith' refers to:",
+    "variantlar": ["Doubt", "Trust and belief", "Criticism", "Feedback"],
+    "javob": "Trust and belief"
   },
   {
     "id": 59,
-    "question": "'Grain' usually refers to:",
-    "options": ["Small seeds", "Large stones", "Type of meat", "Beacon"],
-    "answer": "Small seeds"
+    "savol": "'Grain' usually refers to:",
+    "variantlar": ["Small seeds", "Large stones", "Type of meat", "Beacon"],
+    "javob": "Small seeds"
   },
   {
     "id": 60,
-    "question": "To 'adopt' means to:",
-    "options": ["Give up", "Take on a new role", "Replace something", "Adapt"],
-    "answer": "Take on a new role"
+    "savol": "To 'adopt' means to:",
+    "variantlar": ["Give up", "Take on a new role", "Replace something", "Adapt"],
+    "javob": "Take on a new role"
   },
   {
     "id": 61,
-    "question": "A 'tone' can refer to:",
-    "options": ["A type of voice or sound", "A visual color", "A written letter", "Envelope"],
-    "answer": "A type of voice or sound"
+    "savol": "A 'tone' can refer to:",
+    "variantlar": ["A type of voice or sound", "A visual color", "A written letter", "Envelope"],
+    "javob": "A type of voice or sound"
   },
   {
     "id": 62,
-    "question": "To 'beg' means to:",
-    "options": ["Ask for something urgently", "Refuse help", "Ignore needs", "Pay attention to"],
-    "answer": "Ask for something urgently"
+    "savol": "To 'beg' means to:",
+    "variantlar": ["Ask for something urgently", "Refuse help", "Ignore needs", "Pay attention to"],
+    "javob": "Ask for something urgently"
   },
   {
     "id": 63,
-    "question": "A 'stream' is:",
-    "options": ["A large lake", "A small flow of water", "A type of food", "Sea"],
-    "answer": "A small flow of water"
+    "savol": "A 'stream' is:",
+    "variantlar": ["A large lake", "A small flow of water", "A type of food", "Sea"],
+    "javob": "A small flow of water"
   },
   {
     "id": 64,
-    "question": "To 'investigate' means to:",
-    "options": ["Act without thinking", "Examine and learn about something", "Prevent problems", "Avoid problems"],
-    "answer": "Examine and learn about something"
+    "savol": "To 'investigate' means to:",
+    "variantlar": ["Act without thinking", "Examine and learn about something", "Prevent problems", "Avoid problems"],
+    "javob": "Examine and learn about something"
   },
   {
     "id": 65,
-    "question": "The report __ by the end of the week.",
-    "options": ["will be finished", "will finished", "is finished", "was finished"],
-    "answer": "will be finished"
+    "savol": "The report __ by the end of the week.",
+    "variantlar": ["will be finished", "will finished", "is finished", "was finished"],
+    "javob": "will be finished"
   },
   {
     "id": 66,
-    "question": "The book ___ by the author next month.",
-    "options": ["will be published", "are published", "will publishing", "published"],
-    "answer": "will be published"
+    "savol": "The book ___ by the author next month.",
+    "variantlar": ["will be published", "are published", "will publishing", "published"],
+    "javob": "will be published"
   },
   {
     "id": 67,
-    "question": "The results ___ announced tomorrow.",
-    "options": ["will be", "will", "were", "is"],
-    "answer": "will be"
+    "savol": "The results ___ announced tomorrow.",
+    "variantlar": ["will be", "will", "were", "is"],
+    "javob": "will be"
   },
   {
     "id": 68,
-    "question": "The homework ___ by the teacher next week.",
-    "options": ["will be graded", "will grading", "is graded", "graded"],
-    "answer": "will be graded"
+    "savol": "The homework ___ by the teacher next week.",
+    "variantlar": ["will be graded", "will grading", "is graded", "graded"],
+    "javob": "will be graded"
   },
   {
     "id": 69,
-    "question": "A new park ___ built in our neighborhood.",
-    "options": ["will be", "is being", "will build", "built"],
-    "answer": "will be"
+    "savol": "A new park ___ built in our neighborhood.",
+    "variantlar": ["will be", "is being", "will build", "built"],
+    "javob": "will be"
   },
   {
     "id": 70,
-    "question": "She had her hair ___ yesterday.",
-    "options": ["cut", "cutted", "cutting", "to cut"],
-    "answer": "cut"
+    "savol": "She had her hair ___ yesterday.",
+    "variantlar": ["cut", "cutted", "cutting", "to cut"],
+    "javob": "cut"
   },
   {
     "id": 71,
-    "question": "We got the car ____ last week.",
-    "options": ["fix", "fixed", "fixing", "to fix"],
-    "answer": "fixed"
+    "savol": "We got the car ____ last week.",
+    "variantlar": ["fix", "fixed", "fixing", "to fix"],
+    "javob": "fixed"
   },
   {
     "id": 72,
-    "question": "He made his brother ____ the dishes.",
-    "options": ["do", "did", "doing", "to do"],
-    "answer": "do"
+    "savol": "He made his brother ____ the dishes.",
+    "variantlar": ["do", "did", "doing", "to do"],
+    "javob": "do"
   },
   {
     "id": 73,
-    "question": "I had my house ____ last month.",
-    "options": ["painted", "painting", "paint", "to paint"],
-    "answer": "painted"
+    "savol": "I had my house ____ last month.",
+    "variantlar": ["painted", "painting", "paint", "to paint"],
+    "javob": "painted"
   },
   {
     "id": 74,
-    "question": "They got the documents ____ by the lawyer.",
-    "options": ["reviewed", "review", "reviewing", "to review"],
-    "answer": "reviewed"
+    "savol": "They got the documents ____ by the lawyer.",
+    "variantlar": ["reviewed", "review", "reviewing", "to review"],
+    "javob": "reviewed"
   },
   {
     "id": 75,
-    "question": "I read a book ___ I waited for my flight.",
-    "options": ["during", "while", "for", "when"],
-    "answer": "while"
+    "savol": "I read a book ___ I waited for my flight.",
+    "variantlar": ["during", "while", "for", "when"],
+    "javob": "while"
   },
   {
     "id": 76,
-    "question": "He fell asleep ___ the movie.",
-    "options": ["during", "while", "for", "as"],
-    "answer": "during"
+    "savol": "He fell asleep ___ the movie.",
+    "variantlar": ["during", "while", "for", "as"],
+    "javob": "during"
   },
   {
     "id": 77,
-    "question": "We stayed indoors ___ the storm.",
-    "options": ["during", "while", "on", "for"],
-    "answer": "during"
+    "savol": "We stayed indoors ___ the storm.",
+    "variantlar": ["during", "while", "on", "for"],
+    "javob": "during"
   },
   {
     "id": 78,
-    "question": "She listened to music ___ she studied.",
-    "options": ["during", "while", "on", "when"],
-    "answer": "while"
+    "savol": "She listened to music ___ she studied.",
+    "variantlar": ["during", "while", "on", "when"],
+    "javob": "while"
   },
   {
     "id": 79,
-    "question": "_____ the meeting, we discussed important issues.",
-    "options": ["During", "While", "For", "Since"],
-    "answer": "During"
+    "savol": "_____ the meeting, we discussed important issues.",
+    "variantlar": ["During", "While", "For", "Since"],
+    "javob": "During"
   },
   {
     "id": 80,
-    "question": "She sings ___ beautifully.",
-    "options": ["very", "much", "too", "also"],
-    "answer": "very"
+    "savol": "She sings ___ beautifully.",
+    "variantlar": ["very", "much", "too", "also"],
+    "javob": "very"
   },
   {
     "id": 81,
-    "question": "He completed the task ___ quickly.",
-    "options": ["too", "very", "much", "quite"],
-    "answer": "very"
+    "savol": "He completed the task ___ quickly.",
+    "variantlar": ["too", "very", "much", "quite"],
+    "javob": "very"
   },
   {
     "id": 82,
-    "question": "They arrived ___ late to the party.",
-    "options": ["really", "too", "much", "quite"],
-    "answer": "too"
+    "savol": "They arrived ___ late to the party.",
+    "variantlar": ["really", "too", "much", "quite"],
+    "javob": "too"
   },
   {
     "id": 83,
-    "question": "The dog barked ___ loudly last night.",
-    "options": ["very", "too", "quite", "also"],
-    "answer": "very"
+    "savol": "The dog barked ___ loudly last night.",
+    "variantlar": ["very", "too", "quite", "also"],
+    "javob": "very"
   },
   {
     "id": 84,
-    "question": "She understands the concept ___ well.",
-    "options": ["perfectly", "complete", "too", "very"],
-    "answer": "very"
+    "savol": "She understands the concept ___ well.",
+    "variantlar": ["perfectly", "complete", "too", "very"],
+    "javob": "very"
   },
   {
     "id": 85,
-    "question": "I saw ___ elephant at the zoo.",
-    "options": ["a", "an", "the", "none"],
-    "answer": "an"
+    "savol": "I saw ___ elephant at the zoo.",
+    "variantlar": ["a", "an", "the", "none"],
+    "javob": "an"
   },
   {
     "id": 86,
-    "question": "Can you pass me ___ salt, please?",
-    "options": ["the", "a", "an", "none"],
-    "answer": "the"
+    "savol": "Can you pass me ___ salt, please?",
+    "variantlar": ["the", "a", "an", "none"],
+    "javob": "the"
   },
   {
     "id": 87,
-    "question": "He is ___ honest man.",
-    "options": ["a", "an", "The", "none"],
-    "answer": "an"
+    "savol": "He is ___ honest man.",
+    "variantlar": ["a", "an", "The", "none"],
+    "javob": "an"
   },
   {
     "id": 88,
-    "question": "It was ___ unusual experience.",
-    "options": ["a", "an", "the", "none"],
-    "answer": "an"
+    "savol": "It was ___ unusual experience.",
+    "variantlar": ["a", "an", "the", "none"],
+    "javob": "an"
   },
   {
     "id": 89,
-    "question": "She wants to be ___ engineer.",
-    "options": ["a", "an", "the", "none"],
-    "answer": "an"
+    "savol": "She wants to be ___ engineer.",
+    "variantlar": ["a", "an", "the", "none"],
+    "javob": "an"
   },
   {
     "id": 90,
-    "question": "The event ___ organized by the committee.",
-    "options": ["will be", "is", "was", "being"],
-    "answer": "will be"
+    "savol": "The event ___ organized by the committee.",
+    "variantlar": ["will be", "is", "was", "being"],
+    "javob": "will be"
   },
   {
     "id": 91,
-    "question": "The cake ___ baked by her mother tomorrow.",
-    "options": ["will be", "is", "was", "being"],
-    "answer": "will be"
+    "savol": "The cake ___ baked by her mother tomorrow.",
+    "variantlar": ["will be", "is", "was", "being"],
+    "javob": "will be"
   },
   {
     "id": 92,
-    "question": "A presentation ___ given at the conference next week.",
-    "options": ["will be", "is giving", "was", "been"],
-    "answer": "will be"
+    "savol": "A presentation ___ given at the conference next week.",
+    "variantlar": ["will be", "is giving", "was", "been"],
+    "javob": "will be"
   },
   {
     "id": 93,
-    "question": "All the classes ___ held online next semester.",
-    "options": ["will be", "is", "are", "was"],
-    "answer": "will be"
+    "savol": "All the classes ___ held online next semester.",
+    "variantlar": ["will be", "is", "are", "was"],
+    "javob": "will be"
   },
   {
     "id": 94,
-    "question": "The letters ___ sent out next Friday.",
-    "options": ["will be", "are being", "was", "is"],
-    "answer": "will be"
+    "savol": "The letters ___ sent out next Friday.",
+    "variantlar": ["will be", "are being", "was", "is"],
+    "javob": "will be"
   },
   {
     "id": 95,
-    "question": "I had my documents ___ by a professional.",
-    "options": ["translated", "translation", "translate", "to translate"],
-    "answer": "translated"
+    "savol": "I had my documents ___ by a professional.",
+    "variantlar": ["translated", "translation", "translate", "to translate"],
+    "javob": "translated"
   },
   {
     "id": 96,
-    "question": "She made her children ___ their homework.",
-    "options": ["do", "doing", "to do", "did"],
-    "answer": "do"
+    "savol": "She made her children ___ their homework.",
+    "variantlar": ["do", "doing", "to do", "did"],
+    "javob": "do"
   },
   {
     "id": 97,
-    "question": "He got his laptop ___ yesterday.",
-    "options": ["repaired", "repairing", "repair", "to repair"],
-    "answer": "repaired"
+    "savol": "He got his laptop ___ yesterday.",
+    "variantlar": ["repaired", "repairing", "repair", "to repair"],
+    "javob": "repaired"
   },
   {
     "id": 98,
-    "question": "They had the plumbing ___ in their house last week.",
-    "options": ["fixed", "fixing", "fix", "to fix"],
-    "answer": "fixed"
+    "savol": "They had the plumbing ___ in their house last week.",
+    "variantlar": ["fixed", "fixing", "fix", "to fix"],
+    "javob": "fixed"
   },
   {
     "id": 99,
-    "question": "She made her friend ___ the presentation.",
-    "options": ["give", "given", "to give", "giving"],
-    "answer": "given"
+    "savol": "She made her friend ___ the presentation.",
+    "variantlar": ["give", "given", "to give", "giving"],
+    "javob": "given"
   },
   {
     "id": 100,
-    "question": "He checks his phone ___ he walks.",
-    "options": ["during", "while", "after", "for"],
-    "answer": "while"
+    "savol": "He checks his phone ___ he walks.",
+    "variantlar": ["during", "while", "after", "for"],
+    "javob": "while"
   }
 ]
+
+
+
+    
+
+
+
+
+
