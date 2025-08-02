@@ -5,7 +5,7 @@ import random
 st.set_page_config(page_title="Fanlar bo‘yicha test", page_icon="🧠")
 
 # Fanni tanlash
-subject = st.selectbox("Fan tanlang:", ["Algoritm"])
+subject = st.selectbox("Fan tanlang:", ["Algoritm","Falsafa","Dinshunoslik","Hisob"])
 
 # Test usulini tanlash
 test_mode = st.radio("Test turi:", ["100 ta to‘liq", "25 ta random"], horizontal=True)
@@ -14,7 +14,10 @@ test_mode = st.radio("Test turi:", ["100 ta to‘liq", "25 ta random"], horizont
 
 # Fayl nomlarini aniqlaymiz
 file_map = {
-    "Algoritm": "Algoritm.json"
+    "Algoritm": "Algoritm.json",
+    "Falsafa": "Falsafa.json",
+    "Dinshunoslik": "Dinshunoslik.json",
+    "Hisob": "Hisob.json"
 }
 file_name = file_map[subject]
 
@@ -71,3 +74,4 @@ for idx, q in enumerate(questions, 1):
 
 st.markdown("---")
 st.subheader(f"Umumiy natija: {st.session_state.score} / {len(questions)}")
+
